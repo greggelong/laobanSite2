@@ -1,6 +1,8 @@
-# raven2
+# AI laoban for performance
 
-a model app for memorizing texts in in English and Chinese
+for parasites perfomance at the bar work site
+
+text is site4b.txt
 
 I am using P5js and p5 speech
 
